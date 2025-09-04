@@ -39,4 +39,4 @@ These charts were chosen to make trends **visually intuitive**, support quick co
 
 ## Project Link
 
-[GitHub Repository](https://github.com/yourusername/Uber-Trip-Analysis)
+[How this project look like ](https://github.com/rakesh765483/Uber-Trip-Analysis-Dashboard/blob/main/Uber%20Trip%20Analysis%201.png)
